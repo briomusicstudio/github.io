@@ -1,6 +1,6 @@
 # Скрипковий ключ — Brio Music Studio
 
-Жива версія: https://briomusicstudio.github.io/clef-game/
+Жива версія: https://briomusicstudio.github.io/github.io/
 
 ## Структура
 - `site/` — **готовий сайт**. Вміст цієї папки заливається в корінь репозиторію GitHub (`main` / root):

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://briomusicstudio.github.io/clef-game/sitemap.xml
+Sitemap: https://briomusicstudio.github.io/github.io/sitemap.xml
